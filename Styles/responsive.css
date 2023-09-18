@@ -6,6 +6,12 @@
 /* ---------------------------------- */
 
 @media (min-width: 320px) and (max-width: 480px) {
+  .rj_text5 {
+    font-size: 19px;
+  }
+  .ck_text6 {
+    font-size: 18px;
+  }
   .ms_mobile {
     margin-top: 2rem;
   }
@@ -45,7 +51,7 @@
     display: none;
   }
   .list-group-item {
-    font-size: 21px;
+    font-size: 18px;
   }
   .rj_text {
     font-size: 29px;
@@ -607,13 +613,13 @@
 
   .card-title-rj {
     text-align: center;
-    font-size: 17px;
+    font-size: 24px;
   }
   .card-rj-text {
     color: #585858;
     text-align: center;
     font-family: Nunito Sans;
-    font-size: 16px;
+    font-size: 18px;
     font-style: normal;
     /* font-weight: 400; */
     /* line-height: 34px;  */
@@ -645,7 +651,7 @@
   .rj-h-map {
     color: #4a4a4a;
     font-family: Nunito Sans;
-    font-size: 19px;
+    font-size: 21px;
     font-style: normal;
     font-weight: 700;
     line-height: 147.4%; /* 42.746px */
@@ -748,7 +754,7 @@
   .rj_text5 {
     color: #4a4a4a;
     font-family: Nunito Sans;
-    font-size: 17px;
+    font-size: 20px;
     font-style: normal;
     font-weight: 700;
     line-height: 147.4%; /* 42.746px */
