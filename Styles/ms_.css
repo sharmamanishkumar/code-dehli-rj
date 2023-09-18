@@ -1,0 +1,196 @@
+.fa-envelope{
+    
+    color: #9092B0;
+}
+.box-rec{
+    border-radius: 40px;
+    background: #EFF0FF;
+}
+.box{
+   background-color: white;
+   
+
+}
+.icons{
+    background-color: white;
+}
+.navbar-brand{
+    width: 7%;
+}
+.only{
+    font-size: 0.997em;
+}
+.company{
+    font-size: 2em;
+}
+.emial-text{
+    margin-left: 10px;
+}
+.input-group-text{
+    background: #fff;
+    border: none;color: #9092B0;
+    text-align: center;
+    font-family: Nunito Sans;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 147.4%; /* 29.48px */
+     letter-spacing: 0.4px;
+}
+.main-cl{
+    border-radius: 20px;
+    background: #FFF;
+     box-shadow: 0px 10px 20px 0px rgba(54, 58, 120, 0.10);
+}
+.btn-sub{
+    border-radius: 20px;
+    background: #686DF1;
+     width: 117px;
+    height: 35px;
+    flex-shrink: 0;
+    border: none;   
+}
+.main-con-rj{
+width: 850px;
+}
+.input-ry{
+    border: none;
+}
+.bt-tele{
+    border-radius: 40px;
+
+}
+.form-floating{
+    border-radius: 40%;
+}
+.sub-text{
+    font-size: 1em;
+}
+.fn_twitter{
+    margin-left: 10px;
+}
+.fa-linkedin,.fa-twitter{
+    font-size: 2em;
+}
+.rj-training{
+    display: none;
+}
+.rj-training-1{
+    display: block;
+}
+.li-link{
+    text-decoration: none;
+    list-style: none;
+}
+
+.rj-text{
+    color: #2B3377;
+font-family: Poppins;
+font-size: 22px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+@media (min-width: 320px) and (max-width: 480px) {
+    .navbar-brand{
+        width: 6%;
+    }
+   
+    .only{
+        font-size: 0.997em;
+        font-weight: 800;
+    }
+  
+    .company{
+        font-size: 2em;
+    }
+    .sub-text{
+        font-size: 0.50em;
+    }
+    .input-group-text{
+        font-size: 0.50em;
+    }
+    .subscribe{
+        font-size: 1.5em;
+    }
+    .only,.subscribe,.company{
+        text-align: center;
+    }
+    .mb-3{
+        margin: 7px;
+    }
+  
+   
+}
+@media (min-width: 481px) and (max-width: 640px){
+    .navbar-brand{
+        width: 6%;
+    }
+    .mb-3{
+        margin: 7px;
+    }
+    .rj-training{
+        display: block;
+    }
+   
+   
+}
+@media (min-width: 641px) and (max-width: 960px){
+    .navbar-brand{
+        width: 9%;
+    }
+    .mb-3{
+        margin: 7px;
+    }
+    .rj-training{
+        display: block;
+    }
+    .rj-training-1{
+        display: none;
+    }
+  
+    
+}
+@media (min-width: 961px) and (max-width: 1024px){
+    .navbar-brand{
+        width: 5%;
+    }
+    .f-col-1{
+        width: 100%;
+        text-align: center;
+    }
+    .f-col-2{
+        width: 50%;
+        text-align: center;
+    }
+    .f-col-3{
+        width: 50%;
+        text-align: center;
+    }
+    .f-col-4{
+        width: 50%;
+        text-align: center;
+    }
+    .f-col-5{
+        width: 50%;
+        text-align: center;
+    }
+    .icons{
+        justify-content: center;
+    }
+    .emial-text{
+        margin-left: 10px;
+    }
+}
+@media (min-width: 1025px) and (max-width: 1281px){
+
+    .navbar-brand{
+        width: 13%;
+    }
+    .f-col-1,.f-col-2,.f-col-3,.f-col-4{
+        width: 20%;
+    }
+   
+   
+
+}
